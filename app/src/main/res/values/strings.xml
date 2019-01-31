@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">itnenso</string>
+    <string name="btn">intent1</string>
+    <string name="btn2">llamar</string>
+    <string name="btn3">navegar</string>
+    <string name="alarma">alarma</string>
+    <string name="galeria">galeria</string>
+    <string name="facebook">facebook</string>
+    <string name="youtube">youtube</string>
+    <string name="camera">camera</string>
+    <string name="boton4">boton4</string>
+</resources>
